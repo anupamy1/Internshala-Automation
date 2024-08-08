@@ -1,8 +1,8 @@
 module.exports = [
     {
-      "College": "Maharaja Agrasen Institute Of Technology",
-      "Degree" : "Bachelor of Technology (B.Tech)",
-      "Stream" : "Information Technology",
+      "College": "Army Institute Of Technology",
+      "Degree" : "Bachelor of Engineering (B.E)",
+      "Stream" : "computer engineering",
       "Percentage" : "91",
       "Training" : "Data Structures and Algorithms, Web Development",
       "Organization" : "XYZ Pvt Ltd.",
